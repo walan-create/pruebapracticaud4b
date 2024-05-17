@@ -9,7 +9,6 @@ public class Sudoku {
     public int getNumClues() {
         return numClues;
     }
-
     public void setNumClues(int numClues) {
         this.numClues = numClues;
     }
